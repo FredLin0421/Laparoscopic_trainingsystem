@@ -7,8 +7,10 @@ J. Lin, S. Liu, A. Lee, R. Broderick, G. Jacobsen, T.K. Morimoto. "Development o
 <p align="center">
   <img width="460" height="300" src="https://github.com/FredLin0421/Laparoscopic_trainingsystem/blob/master/images/Screen%20Shot%202020-01-14%20at%2010.19.04%20PM.png">
 </p>
-## System Design
+
+### System Design
 An overview of some important features of the system 
+
 ### Training box
 <p align="center">
 <img width="460" height="300" src="https://github.com/FredLin0421/Laparoscopic_trainingsystem/blob/master/images/Screen%20Shot%202020-01-14%20at%2010.20.53%20PM.png">
