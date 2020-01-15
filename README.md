@@ -9,10 +9,11 @@ In addition, this paper was accepted by Journal of Medical Robotics Research.
 <p align="center">
 <img width="460" height="300" src="https://github.com/FredLin0421/Laparoscopic_trainingsystem/blob/master/images/Screen%20Shot%202020-01-14%20at%2010.20.53%20PM.png">
 </p>
+
 <p align="center">
-<img width="460" height="300" src="png">
+<img width="460" height="300" src="https://github.com/FredLin0421/Laparoscopic_trainingsystem/blob/master/images/Screen%20Shot%202020-01-14%20at%2010.21.21%20PM.png">
 </p>
-https://github.com/FredLin0421/Laparoscopic_trainingsystem/blob/master/images/Screen%20Shot%202020-01-14%20at%2010.21.21%20PM.png
+
 <p align="center">
 <img width="460" height="300" src="https://https://github.com/FredLin0421/Laparoscopic_trainingsystem/blob/master/images/Screen%20Shot%202020-01-14%20at%2010.21.21%20PM.png">
 </p>
