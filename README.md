@@ -26,4 +26,9 @@ An overview of some important features of the system
 <img width="460" height="300" src="https://github.com/FredLin0421/Laparoscopic_trainingsystem/blob/master/images/Screen%20Shot%202020-01-15%20at%208.00.30%20AM.png">
 </p>
 
+## System diagram
+<p align="center">
+<img width="460" height="300" src="https://github.com/FredLin0421/Laparoscopic_trainingsystem/blob/master/images/Screen%20Shot%202020-01-15%20at%208.10.54%20AM.png">
+</p>
+
 
