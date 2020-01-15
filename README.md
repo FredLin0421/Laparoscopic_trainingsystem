@@ -18,7 +18,7 @@ An overview of some important features of the system
 
 ## Custimized laparoscopic instruments
 <p align="center">
-<img width="460" height="300" src="https://github.com/FredLin0421/Laparoscopic_trainingsystem/blob/master/images/Screen%20Shot%202020-01-14%20at%2010.21.21%20PM.png">
+<img width="660" height="300" src="https://github.com/FredLin0421/Laparoscopic_trainingsystem/blob/master/images/Screen%20Shot%202020-01-14%20at%2010.21.21%20PM.png">
 </p>
 
 ## Electronics 
@@ -28,7 +28,7 @@ An overview of some important features of the system
 
 ## System diagram
 <p align="center">
-<img width="460" height="300" src="https://github.com/FredLin0421/Laparoscopic_trainingsystem/blob/master/images/Screen%20Shot%202020-01-15%20at%208.10.54%20AM.png">
+<img width="660" height="300" src="https://github.com/FredLin0421/Laparoscopic_trainingsystem/blob/master/images/Screen%20Shot%202020-01-15%20at%208.10.54%20AM.png">
 </p>
 
 
