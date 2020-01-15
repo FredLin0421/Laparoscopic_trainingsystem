@@ -8,7 +8,7 @@ In addition, this paper was accepted by Journal of Medical Robotics Research.
 ## Mechanical Design
 (<p align="center">
 <img width="460" height="300" src="https://github.com/FredLin0421/Laparoscopic_trainingsystem/blob/master/images/Screen%20Shot%202020-01-14%20at%2010.20.53%20PM.png">
-</p>)\
+</p>)
 (<p align="center">
 <img width="460" height="300" src="https://https://github.com/FredLin0421/Laparoscopic_trainingsystem/blob/master/images/Screen%20Shot%202020-01-14%20at%2010.21.21%20PM.png">
 </p>)
