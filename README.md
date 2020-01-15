@@ -1,7 +1,7 @@
 # Laparoscopic Training System
 
-We developed a low cost laparoscopic training system which has more engagement and accessible for the medical studnts and surgeons. This new interface are able to control the XBOX console by using two customized laparoscopic instruments and the sensing systems embedded on the training box. This system are able to detect the X,Y,Z movement by using the joystickers and the rotary encoders. A prelimary study has shown that the short training session on this system could significantly improve the user's skills, especially on the precision cutting.
-This project was pulished on JMMR
+We developed a low cost laparoscopic training system which has more engagement and accessible for the medical studnts and surgeons. This new interface are able to control the XBOX console by using two customized laparoscopic instruments and the sensing systems embedded on the training box. This system are able to detect the X,Y,Z movement by using the joystickers and the rotary encoders. A prelimary study has shown that the short training session on this system could significantly improve the user's skills, especially on the precision cutting task.
+In addition, this paper was accepted by Journal of Medical Robotics Research.
 
 ## Mechanical Design
 
