@@ -6,11 +6,8 @@ In addition, this paper was accepted by Journal of Medical Robotics Research.
   <img width="460" height="300" src="https://github.com/FredLin0421/Laparoscopic_trainingsystem/blob/master/images/Screen%20Shot%202020-01-14%20at%2010.19.04%20PM.png">
 </p>)
 ## Mechanical Design
-<img width="460" height="300" src="https://github.com/FredLin0421/Laparoscopic_trainingsystem/blob/master/images/Screen%20Shot%202020-01-14%20at%2010.19.04%20PM.png">
-</p>)
 <img width="460" height="300" src="https://github.com/FredLin0421/Laparoscopic_trainingsystem/blob/master/images/Screen%20Shot%202020-01-14%20at%2010.20.53%20PM.png">
 </p>)
-
 
 ## Electronics & Sensors
 
